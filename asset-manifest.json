@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-flutter/static/css/main.33f89c35.css",
+    "main.js": "/portfolio-flutter/static/js/main.03dc8d5a.js",
+    "static/media/flutter_textfield_code.png": "/portfolio-flutter/static/media/flutter_textfield_code.f5e5582d59b5b2b1a805.png",
+    "static/media/flutter_async_code.png": "/portfolio-flutter/static/media/flutter_async_code.e6cd1d8427213eba3df4.png",
+    "static/media/flutter_futurebuilder_code.png": "/portfolio-flutter/static/media/flutter_futurebuilder_code.2f425843355216c0c68c.png",
+    "static/media/flutter_app.png": "/portfolio-flutter/static/media/flutter_app.111f10fbb7947f25a718.png",
+    "index.html": "/portfolio-flutter/index.html",
+    "main.33f89c35.css.map": "/portfolio-flutter/static/css/main.33f89c35.css.map",
+    "main.03dc8d5a.js.map": "/portfolio-flutter/static/js/main.03dc8d5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f89c35.css",
+    "static/js/main.03dc8d5a.js"
+  ]
+}
